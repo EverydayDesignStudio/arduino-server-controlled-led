@@ -5,7 +5,7 @@
 * [ESP8266 First Web Server](https://tttapa.github.io/ESP8266/Chap10%20-%20Simple%20Web%20Server.html)
 * [Control ESP8266 Over the Internet (from Anywhere)](https://www.instructables.com/id/Control-ESP8266-Over-the-Internet-from-Anywhere/)
 * [ESP8266: Get MAC address](https://techtutorialsx.com/2017/04/09/esp8266-get-mac-address/)
-* [Not Sure When ](https://www.whatsmyip.org)
+* [Not Sure What Your Router's Public IP Is?](https://www.whatsmyip.org)
 
 ## Making the Server/Website Public
 The hardest part of this whole project was making it publicly viewable to the rest of the internet. It's quite easy to host it on your local network.
